@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Third-year student in software engineering.  Interested in GTA multiplayer like FiveM and SAMP.
+
+Microsoft Learn Student Ambassador
+
 <!--
 **TomStilson/TomStilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
