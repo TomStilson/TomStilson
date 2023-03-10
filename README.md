@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Third-year student in software engineering.  Interested in GTA multiplayer like FiveM and SAMP.
-
-Microsoft Learn Student Ambassador
+Welcome to my GitHub page! I am a third-year software engineering student and a Microsoft Learn Student Ambassador. My interests lie in the world of multiplayer gaming, particularly in games like FiveM and SAMP for Grand Theft Auto. Here you'll find some of the projects I have been working on, including coding challenges, game mods, and experiments with different programming languages and frameworks. I am always looking for new challenges and opportunities to learn, so feel free to reach out if you have any ideas or collaborations in mind. Let's create something amazing together!
 
 <!--
 **TomStilson/TomStilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
